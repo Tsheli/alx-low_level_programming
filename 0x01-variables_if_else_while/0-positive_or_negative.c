@@ -1,12 +1,9 @@
 #include <stdlib.h>
-#include <stdio.h>
 #include <time.h>
+#include <stdio.h>
+/* more headers goes there */
 
-/**
- * main - print whether a number is negative or positive
- *
- * Return: Always 0 (success)
- */
+/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
@@ -31,4 +28,3 @@ int main(void)
 	return (0);
 
 }
-
