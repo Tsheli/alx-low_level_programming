@@ -7,7 +7,7 @@
  *
  * Return: Always 0.
  */
-int main(void)
+int main(vid)
 {
 	int digit1, digit2;
 
