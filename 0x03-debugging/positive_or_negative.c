@@ -4,9 +4,9 @@
 #include "main.h"
 
 /**
- * main - Prints a random number and states whether
- *        it is positive, negative, or zero.
- *
+ * positive_or_negative  - Prints a random number and states whether
+ *                         it is positive, negative, or zero.
+ * @n: integer input
  */
 void positive_or_negative(int n)
 {
